@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e899ad12-bc7a-4e22-ba4c-e5b3dcddb397/resourceGroups/testes/providers/Microsoft.Web/sites/App-Clima",
+    "appService.deploySubpath": "."
+}
